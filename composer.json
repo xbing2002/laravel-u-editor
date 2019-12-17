@@ -20,7 +20,7 @@
   "require": {
     "php": ">=5.4.0",
     "ext-fileinfo": "*",
-    "illuminate/support": "5.*",
+    "illuminate/support": "6.*",
     "qiniu/php-sdk": "7.*"
   },
   "autoload": {
